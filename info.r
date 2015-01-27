@@ -1,0 +1,5 @@
+name = "Dzmitry Yahorau"
+SID = "25501676"
+email = "dzmitry.yahorau@berkeley.edu"
+github_name = "dyahorau"
+status = "enrolled"
