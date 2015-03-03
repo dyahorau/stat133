@@ -1,0 +1,23 @@
+{
+    "email": "dzmitry.yahorau@berkeley.edu", 
+    "github_name": "dyahorau", 
+    "grades": {
+        "hw1": {
+            "note": "", 
+            "hash": "51a03092e37c9706e599b0cb0c85eada733762f7", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw1": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
+        }
+    }, 
+    "login": "dyahorau", 
+    "name": "Dzmitry Yahorau", 
+    "status": "enrolled", 
+    "url": "git@github.com:dyahorau/stat133.git"
+}
