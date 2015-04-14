@@ -14,10 +14,23 @@
                     "earned": 0
                 }
             }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "5aae5bc30d37fc4fdd39b0867bab64cd81a4ff2a", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "login": "dyahorau", 
     "name": "Dzmitry Yahorau", 
-    "status": "enrolled", 
+    "status": "unenrolled", 
     "url": "git@github.com:dyahorau/stat133.git"
 }
