@@ -44,6 +44,19 @@
                     "earned": 0
                 }
             }
+        }, 
+        "midterm4": {
+            "note": "", 
+            "hash": "8e43c7c3403afb9788a4d0a2762e031e1c491863", 
+            "earned": 1, 
+            "possible": 27, 
+            "penalty": 0, 
+            "parts": {
+                "midterm4": {
+                    "possible": 30, 
+                    "earned": 1
+                }
+            }
         }
     }, 
     "login": "dyahorau", 
